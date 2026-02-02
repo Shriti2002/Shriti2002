@@ -3,7 +3,9 @@
 Data Analyst 
 
 📍 USA 
+<br>
 📫truptishriyan2002@gmail.com
+<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/truptishriyan09/)    
 
 I enjoy working with data—analyzing it, visualizing it, and turning it into meaningful insights.
