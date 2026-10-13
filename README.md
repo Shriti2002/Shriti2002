@@ -1,12 +1,15 @@
 ## 👋 Hi, I'm Trupti Shriyan
 
-Data Analyst & GIS Intern @ [The Flamingo Project LLC](https://theflamingoproject.com/about/)
+Database & Web Support Specialist @ [GE Products](https://geproducts.net/)
 Data Analyst | ML Engineer
 📍 USA 
 <br>
 📫truptishriyan2002@gmail.com
 <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/truptishriyan09/)    
+🔗 [Portfolio](https://trupti-shriyan.netlify.app/)
+
+
 
 I enjoy working with data—analyzing it, visualizing it, turning it into meaningful insights and apply data driven decisions by modeling it.
 
